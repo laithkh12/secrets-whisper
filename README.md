@@ -8,12 +8,6 @@ A simple Express application that fetches and displays random secrets along with
 - **User-Friendly Interface**: Styled with CSS for a clean, simple look.
 - **Live Data**: Fetches a new secret each time the page loads.
 
-## Demo
-
-Here's a snapshot of the app in action:
-
-![Secret Whisper Demo](./path/to/screenshot.png) <!-- Replace with actual path if you add a screenshot -->
-
 ## Getting Started
 
 ### Prerequisites
